@@ -1,0 +1,21 @@
+{
+  "name": "monvoo-frontend",
+  "version": "1.0.0",
+  "description": "Monvoo - FrontEnd",
+  "author": "Zoltan Tran",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.3",
+    "babel-preset-env": "^1.6.1",
+    "cookie": "^0.3.1",
+    "css-loader": "^0.28.11",
+    "file-loader": "^1.1.11",
+    "image-webpack-loader": "^3.4.2",
+    "sass-loader": "^6.0.6",
+    "vue": "^2.5.13",
+    "vue-loader": "^13.6.2",
+    "vue-template-compiler": "^2.5.13",
+    "webpack": "^3.10.0"
+  }
+}
